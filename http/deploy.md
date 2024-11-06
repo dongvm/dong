@@ -42,7 +42,7 @@
 
 - Truy cập vào trang web
 
-![result](./assets/https_res.png)
+![result](./assets/https_r.png)
 
 - Kiểm tra gói tin bằng pcap
 
